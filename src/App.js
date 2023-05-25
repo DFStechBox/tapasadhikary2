@@ -1,13 +1,13 @@
 
+import MovieComponent from './MovieComponent';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello World!!</h1>
+      <MovieComponent />
     </div>
   );
 }
 
 export default App;
-// this is a test repo edit
