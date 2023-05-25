@@ -46,12 +46,12 @@ export const movies = [
   },
   {
     id: 6,
-    title: "The Dark Knight",
+    title: "The Dark Knight Rises",
     year: 2012,
     director: "Christopher Nolan",
     rating: "PG-13",
     runTime: 164,
-    poster: "https://m.media-amazon.com/images/I/81pgKxHzBDL._AC_UL480_FMwebp_QL65_.jpg"
+    poster: "https://m.media-amazon.com/images/I/81WbJrIxNTL._AC_UL400_.jpg"
   },
   {
     id: 7,
